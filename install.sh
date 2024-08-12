@@ -55,6 +55,3 @@ else
     exit 1
 fi
 
-echo "Process completed successfully."
-echo "Done Task. Everything is OK"
-
